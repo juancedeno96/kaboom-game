@@ -29,6 +29,5 @@ addLevel([
 
   'x': [sprite('ground'), solid()],
   '@': [sprite('enemy'), scale(0.5)]
-  'x': [sprite('ground'), solid()]
 
 })
